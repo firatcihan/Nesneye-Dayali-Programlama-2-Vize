@@ -1,1 +1,3 @@
-# Nesneye-Dayali-Programlama-2-Vize
+Sinema Müşteri Kayıt Sistemi
+
+Sistemde müşteri, film, salon oluşturarak müşterileri filmlere, filmleri salonlara kayıt edebilen sinema sistemi.
